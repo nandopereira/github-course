@@ -2,3 +2,4 @@
 
 Este é um repositorio para ensinar com o Git funciona.
 Saiba mais em...
+Gostou do curso?
